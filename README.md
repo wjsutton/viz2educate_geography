@@ -1,8 +1,5 @@
-# viz2educate_geography
-
-
 <h1 style="font-weight:normal">
-  viz2educate Geography
+  Viz2educate Geography
 </h1>
 
 
