@@ -55,6 +55,11 @@ There are three different calls available:
 
 Calls for Holocene_Volcanoes & Pleistocene_Volcanoes together form the [Volcano locations](/data/volcano_locations.csv) dataset, and Holocene_Eruptions results in the [Volcano eruptions](/data/volcano_eruptions.csv) dataset.
 
+Note the Smithsonian data includes photos of volcanoes, however linking these images as a webpage on Tableau Public causes them not to render, it is a known issue. One workaround is to import the image as a shape.
+
+Demo:
+![](volcano_photos_issue.png)
+
 ### :deciduous_tree: Deforestation
 
 Data from Global Forest Watch [https://data.globalforestwatch.org/](https://data.globalforestwatch.org/) comes suitable for [ArcGIS](https://www.arcgis.com/index.html) as a .tif file, showing images of the Earth's surface forest cover. 
