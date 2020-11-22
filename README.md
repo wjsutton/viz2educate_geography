@@ -60,6 +60,11 @@ Note the Smithsonian data includes photos of volcanoes, however linking these im
 Demo:
 ![](volcano_photos_issue.png)
 
+See the viz on Tableau Public:<br>
+<a href="https://public.tableau.com/profile/will7508#!/vizhome/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography">
+<img src="https://public.tableau.com/static/images/Vo/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography/1.png">
+</a>
+
 ### :deciduous_tree: Deforestation
 
 Data from Global Forest Watch [https://data.globalforestwatch.org/](https://data.globalforestwatch.org/) comes suitable for [ArcGIS](https://www.arcgis.com/index.html) as a .tif file, showing images of the Earth's surface forest cover. 
