@@ -86,6 +86,6 @@ This then produces the [Earthquakes Magnitude 5-10](/data/earthquakes_mag_5_to_1
 
 Volcanoes<br>
 <a href="https://public.tableau.com/profile/will7508#!/vizhome/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography">
-<img src="https://public.tableau.com/static/images/Vo/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography/1.png">
+<img src="https://pbs.twimg.com/media/EnXh3r1XcAIkSDg?format=jpg&name=large">
 </a>
 
