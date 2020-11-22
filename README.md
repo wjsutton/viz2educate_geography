@@ -60,11 +60,6 @@ Note the Smithsonian data includes photos of volcanoes, however linking these im
 Demo:
 ![](volcano_photos_issue.png)
 
-See the viz on Tableau Public:<br>
-<a href="https://public.tableau.com/profile/will7508#!/vizhome/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography">
-<img src="https://public.tableau.com/static/images/Vo/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography/1.png">
-</a>
-
 ### :deciduous_tree: Deforestation
 
 Data from Global Forest Watch [https://data.globalforestwatch.org/](https://data.globalforestwatch.org/) comes suitable for [ArcGIS](https://www.arcgis.com/index.html) as a .tif file, showing images of the Earth's surface forest cover. 
@@ -86,3 +81,11 @@ In the [R Script](earthquakes_initial_workings.R) we can call the table and edit
 From this we can use the XML library to read the HTML, parse the HTML, and then read the table into a dataframe. As we are pulling 90,000 records over the web I've opted to pull the data in 5 year intervals leaving a 2 minute wait between calls, this is to not overwhelm IRIS and get my IP address blocked from accessing the site.
 
 This then produces the [Earthquakes Magnitude 5-10](/data/earthquakes_mag_5_to_10.csv) dataset.
+
+### 📈 Final Datavizs
+
+Volcanoes<br>
+<a href="https://public.tableau.com/profile/will7508#!/vizhome/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography">
+<img src="https://public.tableau.com/static/images/Vo/Volcanoesviz2educateGeography/Volcanoesviz2educateGeography/1.png">
+</a>
+
