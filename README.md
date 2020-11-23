@@ -89,3 +89,7 @@ Volcanoes<br>
 <img src="https://pbs.twimg.com/media/EnXh3r1XcAIkSDg?format=jpg&name=large">
 </a>
 
+Earthquakes<br>
+<a href="https://public.tableau.com/profile/will7508#!/vizhome/WorldsWorstEarthquakes/TheWorldsWorstEarthquakes">
+<img src="https://pbs.twimg.com/media/Enhn_8PXcAICPM-?format=jpg&name=small">
+</a>
